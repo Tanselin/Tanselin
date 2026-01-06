@@ -3,9 +3,9 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b><a href="https://docs.google.com/document/d/1DxNI66b_RWrXPcJMCoem4S7MHI8otq3LPEI0-S3bwBw/edit?usp=sharing">Linux Hardening</a></b>
-  - 
-- <b></b>
-  - <b><i></b></i>
+  Implemented a comprehensive Linux system hardening project to enhance server security, enforce compliance, and improve operational reliability. Conducted full system audits, applied access controls, enforced password and file permission policies, and configured continuous monitoring tools. Implemented scripting to automate tasks.
+
+
 - <b>Pentest</b>
   - 
   - 
