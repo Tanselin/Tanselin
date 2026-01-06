@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Linux Hardening</b>
+- <b><a href="https://docs.google.com/document/d/1DxNI66b_RWrXPcJMCoem4S7MHI8otq3LPEI0-S3bwBw/edit?usp=sharing">Linux Hardening</a></b>
   - 
 - <b></b>
   - <b><i></b></i>
